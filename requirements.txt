@@ -1,6 +1,6 @@
 flask
 flask-cors
 torch
-torchvision
-opencv-python
+opencv-python-headless
 numpy
+
