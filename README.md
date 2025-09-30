@@ -33,7 +33,8 @@ These steps let anyone run the project on a local machine (Windows / macOS / Lin
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<MARYAM-ALAA>/<signe_model_Api>.git
+cd <signe_model_Api>
 ```
-طط
+
+
